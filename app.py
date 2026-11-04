@@ -6,3 +6,4 @@ st.text("Hello")
 # Alternatively, you can use st.write for markdown formatting
 st.write("Hello")
 st.write("Hello")
+st.write("shalom")
