@@ -1,6 +1,9 @@
 import streamlit as st
 
-
+st.markdown(
+    "<style>body, .stApp {direction: rtl; text-align: right;}</style>",
+    unsafe_allow_html=True,
+)
 st.title(" פרויקט 1 - חיזוי מחירי בתים")
 st.write("**מאת:** נמרוד רוזן (כיתה י\"א)")
 
